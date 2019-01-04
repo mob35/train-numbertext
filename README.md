@@ -5,6 +5,16 @@
 - **nodemon index**
 
 ```html
-See with terminal 
-console.log();
+แบบ property
+module.exports.func1 = (arg) => {
+   return arg
+}
+
+แบบ object
+module.exports = {
+    aa,
+    bb,
+    cc
+}
+
 ```
